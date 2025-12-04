@@ -1,4 +1,5 @@
 <?php
+//src/Mahasiswa.php
 class Mahasiswa {
     public ?int $id;
     public string $nama;
